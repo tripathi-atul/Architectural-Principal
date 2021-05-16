@@ -1,0 +1,7 @@
+There are 5 architectural principal for system design:
+
+1) Solid Principals(single responsibility, open/closed principals,Liskov Substitution,Interface Segregation,Dependency Inversion Principal)
+2) Principals of least astonishment(changes should be in line so that knowledgable person learning curve is not tough(should not be surprised), he should be able to learn on its own)
+3) Principal of least effort(We should take strong decision in start of design so that developers has to just follow the design and put their codes in)
+4) Principal of Opportunity cost (tradeoff between benefit and cost)
+5) Principal of last responsible moment(cost of delay)
