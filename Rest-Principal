@@ -1,0 +1,5 @@
+1) Uniform Interface(A resource in the system should have only one logical URI, and that should provide a way to fetch related or additional data(hateos is example).
+2) client Server (Client and server must be independent of each other)
+3) Stateless (No client context shall be stored on the server between requests. The client is responsible for managing the state of the application)
+4) Caching (Well-managed caching partially or completely eliminates some client-server interactions, further improving scalability and performance)
+5) Layered System (A fetch from, B fetch from C. A can not tell if B is fetching from C)
